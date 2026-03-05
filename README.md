@@ -6,6 +6,7 @@
 ## 📫 Connect with me
 - Email: milazar002@gmail.com  
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/lazar-milovanovic-a97642308/)
+- Portfolio [GitHub](https://lazarmilovanovic.github.io/LazarMilovanovicPortfolio/)
   
 ## 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,sass,git,github)](https://skillicons.dev)
